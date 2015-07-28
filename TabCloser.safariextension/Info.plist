@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Hiraku</string>
 	<key>Builder Version</key>
-	<string>10600.6.3</string>
+	<string>10600.7.12</string>
 	<key>CFBundleDisplayName</key>
 	<string>TabCloser</string>
 	<key>CFBundleIdentifier</key>
@@ -29,7 +29,7 @@
 	<key>Description</key>
 	<string>Close Safari Tabs</string>
 	<key>DeveloperIdentifier</key>
-	<string>Q6F5UHP863</string>
+	<string>2GC96WDWAR</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
